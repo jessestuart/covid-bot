@@ -5,3 +5,12 @@ package.json:64,1584576000:64,r
 .gitignore:48,1584576000:48,m
 package.json.bak:44,1584576000:44,r
 external-scripts.json:15,1584576000:15,r
+
+[ver:1,total:1980]
+.gtm/terminal.app:1630,1584572400:1265,1584576000:365,r
+package.json:190,1584572400:170,1584576000:20,r
+bin/hubot:50,1584576000:50,m
+external-scripts.json:35,1584572400:35,r
+package.json.bak:30,1584572400:30,r
+.env:30,1584576000:30,m
+scripts/example.coffee:15,1584576000:15,m
