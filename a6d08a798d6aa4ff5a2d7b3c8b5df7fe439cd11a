@@ -1,0 +1,6 @@
+[ver:1,total:480]
+.gtm/terminal.app:384,1584576000:384,r
+Procfile:60,1584576000:60,r
+bin/hubot:12,1584576000:12,m
+bin/hubot.cmd:12,1584576000:12,m
+package.json:12,1584576000:12,r
