@@ -1,0 +1,9 @@
+[ver:1,total:780]
+.gtm/terminal.app:510,1584576000:510,r
+package.json:110,1584576000:110,m
+node_modules/hubot-dotenv-adapter/index.js:55,1584576000:55,d
+bin/hubot:40,1584576000:40,r
+Procfile:20,1584576000:20,r
+src/index.js:15,1584576000:15,m
+node_modules/hubot/bin/hubot.js:15,1584576000:15,r
+node_modules/.bin/hubot:15,1584576000:15,r
